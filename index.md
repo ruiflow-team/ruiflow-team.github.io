@@ -1,0 +1,44 @@
+---
+title: RUIFLOW 瑞流
+description: Let creativity flow · 让创意流动起来
+---
+
+# RUIFLOW 瑞流 🌊
+
+> Let creativity flow · 让创意流动起来。
+> 我们做开源 AI 工具，让人人能在自己电脑上跑出创作级 AI 工作流。
+
+## 🛠 在做的产品
+
+### 🎯 [Harness Local](https://github.com/ruiflow-team/harness-local)
+
+> 本地优先的 AI Agent 执行工作台。
+
+- 公开仓库：https://github.com/ruiflow-team/harness-local
+- 文档主页：https://ruiflow-team.github.io/harness-local/
+- 最新版：v0.24.4 Beta
+
+### 🎬 [凌霄 LingXiao](https://github.com/ruiflow-team/lingxiao)
+
+> 本地视频翻译 / 配音 / 唇同步桌面工具。¥0 启动。
+
+- 公开仓库：https://github.com/ruiflow-team/lingxiao
+- 文档主页：https://ruiflow-team.github.io/lingxiao/
+- 最新版：v0.1.0-beta
+- 端到端：ASR (Whisper) → 翻译 (NLLB-200) → TTS (Edge) → 唇同步 (Wav2Lip)
+
+## 🎯 我们的原则
+
+- **本地优先**：模型在你电脑跑，不上传任何视频/数据
+- **开源**：Apache 2.0 / MIT 主导
+- **¥0 入门**：不强制订阅，不锁付费墙
+- **国情友好**：默认走 modelscope 国内 CDN
+
+## 📡 联系 / 反馈
+
+- 通过仓库 Issues 提问与反馈
+- Discussions 板块（每个仓库内置）
+
+## 📜 License
+
+各项目独立 LICENSE，详见各仓库根目录。
