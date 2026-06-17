@@ -12,11 +12,12 @@ description: Let creativity flow · 让创意流动起来
 
 ### 🎯 [Harness Local](https://github.com/ruiflow-team/harness-local)
 
-> 本地优先的 AI Agent 执行工作台。
+> 本地 AI 项目体检工具。先做项目接入前的安全边界、启动状态、交付准备度检查。
 
 - 公开仓库：https://github.com/ruiflow-team/harness-local
 - 文档主页：https://ruiflow-team.github.io/harness-local/
-- 最新版：v0.24.4 Beta
+- 最新版：**v0.26.3 Beta**
+- 默认本地优先：`127.0.0.1` / 中文面板 / 不上传项目
 
 ### 🎬 [凌霄 LingXiao](https://github.com/ruiflow-team/lingxiao)
 
@@ -24,7 +25,7 @@ description: Let creativity flow · 让创意流动起来
 
 - 公开仓库：https://github.com/ruiflow-team/lingxiao
 - 文档主页：https://ruiflow-team.github.io/lingxiao/
-- 最新版：v0.1.0-beta
+- 最新版：**v0.1.1-beta**
 - 端到端：ASR (Whisper) → 翻译 (NLLB-200) → TTS (Edge) → 唇同步 (Wav2Lip)
 
 ## 🎯 我们的原则
