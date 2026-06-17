@@ -1,6 +1,6 @@
 ---
 title: RUIFLOW 瑞流
- description: "RUIFLOW 瑞流｜本地优先的开源 AI 工具：凌霄 LingXiao（视频翻译+中文配音+唇同步）、Harness Local（AI 项目体检）。¥0 启动，模型本地跑。Let creativity flow."
+description: "RUIFLOW 瑞流｜本地优先的开源 AI 工具：凌霄 LingXiao（视频翻译+中文配音+唇同步）、Harness Local（AI 项目体检）。¥0 启动，模型本地跑。Let creativity flow."
 lang: zh-CN
 ---
 
