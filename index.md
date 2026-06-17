@@ -28,6 +28,10 @@ description: Let creativity flow · 让创意流动起来
 - 最新版：**v0.1.1-beta**
 - 端到端：ASR (Whisper) → 翻译 (NLLB-200) → TTS (Edge) → 唇同步 (Wav2Lip)
 
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ruiflow-team/harness-local,ruiflow-team/lingxiao&type=Date)](https://star-history.com/#ruiflow-team/harness-local&ruiflow-team/lingxiao&Date)
+
 ## 🎯 我们的原则
 
 - **本地优先**：模型在你电脑跑，不上传任何视频/数据
@@ -39,6 +43,14 @@ description: Let creativity flow · 让创意流动起来
 
 - 通过仓库 Issues 提问与反馈
 - Discussions 板块（每个仓库内置）
+
+## 📁 联系 / 反馈
+
+- **凌霄 LingXiao 首发讨论：** [Discussions 第一帖](https://github.com/ruiflow-team/lingxiao/discussions/1)
+- **提问 / Bug 反馈：** 
+  - [LingXiao Issues](https://github.com/ruiflow-team/lingxiao/issues)
+  - [Harness Local Issues](https://github.com/ruiflow-team/harness-local/issues)
+- **商业 / 定制合作：** 请在对应仓库开 Issue 并 @ruiflow-team
 
 ## 📜 License
 
