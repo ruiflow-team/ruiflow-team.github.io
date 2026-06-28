@@ -29,6 +29,24 @@ lang: zh-CN
 - 最新版：**v0.1.1-beta**
 - 端到端：ASR (Whisper) → 翻译 (NLLB-200) → TTS (Edge) → 唇同步 (Wav2Lip)
 
+### 🥋 [RuiFlow Motion](https://github.com/ruiflow-team/openclaw-workspace)
+
+> 武侠风格 3D 角色动作生成器 —— 五种经典招式，WebGL 实时预览，GLB 标准格式输出。
+
+- 🎬 **90 秒产品演示（含中文画外音）**：
+
+<video controls width="100%" preload="metadata" poster="">
+  <source src="/assets/ruiflow_full_demo_narrated_20260628.mp4" type="video/mp4">
+  您的浏览器不支持视频播放，<a href="/assets/ruiflow_full_demo_narrated_20260628.mp4">点击下载</a>。
+</video>
+
+- 五种武侠招式：降龙十八掌 · 六脉神剑 · 太极拳 · 独孤九剑 · 乾坤大挪移
+- WebGL 硬件加速 60fps · 360° 旋转查看
+- 输出 GLB/GLTF 标准格式，可直接导入 Blender / Unity / Unreal
+- 完整骨骼绑定，开箱即用
+
+---
+
 ## 📈 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ruiflow-team/harness-local,ruiflow-team/lingxiao&type=Date)](https://star-history.com/#ruiflow-team/harness-local&ruiflow-team/lingxiao&Date)
